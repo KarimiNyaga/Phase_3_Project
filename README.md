@@ -53,8 +53,10 @@ Note that the method used for tuning is GridSearch, which is computationally exp
 https://github.com/KarimiNyaga/Phase_3_Project/assets/133044097/661dd758-c30c-4918-a4c7-ee63d4479aa8
 
 # Repository Structure
-├── data
-├── images
-├── README.md
-├── kc_house_data.csv
-├── Jupyter Notebook
+├──  data
+├──  code preview
+├──  README.md
+├──  Jupyter Notebook
+├──  Non technical Presentation
+
+
